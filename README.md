@@ -99,7 +99,7 @@ endmodule
 
 ### Truth table:
 
-![image](https://user-images.githubusercontent.com/118348224/212248579-3e26f07f-8a75-43f3-9055-611fc4f619d4.png)
+![image](https://user-images.githubusercontent.com/118348224/212308861-bf2e1090-26bc-436d-8fd6-c1a348619833.png)
 
 ## Result:
 Thus, the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
